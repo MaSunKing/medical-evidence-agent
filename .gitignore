@@ -1,0 +1,11 @@
+# Documentation-only publication allowlist.
+*
+!.gitignore
+!README.md
+!AGENTS.md
+!CONTRIBUTING.md
+!docs/
+docs/*
+!docs/PROJECT_CONTEXT.md
+!docs/ARCHITECTURE.md
+!docs/DEVELOPMENT_LOG.md
