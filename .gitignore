@@ -9,3 +9,6 @@ docs/*
 !docs/PROJECT_CONTEXT.md
 !docs/ARCHITECTURE.md
 !docs/DEVELOPMENT_LOG.md
+!docs/KNOWLEDGE_PIPELINE.md
+!docs/AGENT_WORKFLOW.md
+!docs/CONTEXT_BUDGETS.md
